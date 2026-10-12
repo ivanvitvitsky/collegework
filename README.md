@@ -10,3 +10,5 @@
 - [Task mermaid](Main/task_mermaid.md)
 - [BASH_SCRIPT](Main/Bash_Script.md)
 - [Git](Main/Git.md)
+
+## Date 12.10.2026
