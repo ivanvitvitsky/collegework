@@ -8,3 +8,9 @@
 - [Markdown](Main/markdown.md)
 - [Mermaid](Main/mermaid.md)
 - [Task mermaid](Main/task_mermaid.md)
+
+## Преподаватель
+- [Repository_teacher's](https://gitflic.ru/project/rurewa/mfua)
+
+## Командный проект
+- [CinemaHere](https://github.com/maxnikolaev09-netizen/CinemaHere)
