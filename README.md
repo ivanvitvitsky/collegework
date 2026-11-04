@@ -6,10 +6,14 @@
 
 ## Навигация
 
-- [Основы редактирования текста](Main/text.md)
-- [Markdown](Main/markdown.md)
-- [Mermaid](Main/mermaid.md)
-- []()
+- [Основы редактирования текста](/collegework/Main/text.md)
+- [Markdown](/collegework/Main/markdown.md)
+- [Mermaid](/collegework/Main/mermaid.md)
+- [Task mermaid](/collegework/Main/task_mermaid.md)
+- [Shell](/collegework/Main/shell.md)
+- [BashScript](/collegework/Main/BashScript/BashScript.md)
+- [Git](/collegework/Main/Git.md)
+- [Docker](/collegework/Main/docker.md)
 
 ## Преподаватель
 
