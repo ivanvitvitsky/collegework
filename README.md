@@ -13,7 +13,7 @@
 - [Shell](/Main/shell.md)
 - [BashScript](/Main/BashScript/BashScript.md)
 - [Git](/Main/Git.md)
-- [Docker](/collegework/Main/docker.md)
+- [Docker](/Main/docker.md)
 
 ## Преподаватель
 
