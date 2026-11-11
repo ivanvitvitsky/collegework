@@ -27,6 +27,6 @@
 
 ## Docker tasks
 
-- [Docker_tasks](collegework/Main/Docker/)
+- [Docker_tasks](Main/Docker/)
 
 (=^・ω・^=)
