@@ -6,4 +6,10 @@
 
 ![LibreDB_Studio](LibreDB_Studio/README.md)
 
-![MySQL]()
+![MySQL](MySQL/README.md)
+
+![Nginx](Nginx/README.md)
+
+![Ollama](Ollama/README.md)
+
+![Redis](Redis/README.md)
