@@ -1,9 +1,9 @@
 # Docker
 
-![Admirer](/Docker/Adminer/README.md)
+![Admirer](/Adminer/README.md)
 
-![Apache](/Docker/Apache/README.md)
+![Apache](/Apache/README.md)
 
-![LibreDB_Studio](/Docker/LibreDB_Studio/README.md)
+![LibreDB_Studio](/LibreDB_Studio/README.md)
 
-![MySQL](/Docker/MySQL/README.md)
+![MySQL](/MySQL/README.md)
